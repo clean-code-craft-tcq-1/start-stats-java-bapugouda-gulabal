@@ -2,8 +2,6 @@ package statisticker;
 
 import java.util.List;
 
-import com.sun.org.glassfish.external.statistics.Stats;
-
 public class Statistics
 {
 	
